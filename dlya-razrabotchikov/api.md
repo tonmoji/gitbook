@@ -1,5 +1,7 @@
 # API
 
+Используйте наше API для интегрирования в свои сервисы 😉&#x20;
+
 {% swagger method="get" path="/getInfoByEmoji" baseUrl="https://api.ton.ink/api/v1" summary="Get user info by emoji" %}
 {% swagger-description %}
 

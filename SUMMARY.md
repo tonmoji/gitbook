@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Привет!](README.md)
+* [Привет! 👋](README.md)
 
 ## Покупка NFT
 
@@ -14,3 +14,7 @@
 ## Для разработчиков
 
 * [API](dlya-razrabotchikov/api.md)
+
+## Другое
+
+* [Полезные ссылки](drugoe/poleznye-ssylki.md)
