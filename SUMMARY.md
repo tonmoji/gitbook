@@ -10,6 +10,7 @@
 
 * [Как изменить имя и описание?](redaktirovanie-stranicy/kak-izmenit-imya-i-opisanie.md)
 * [Добавление ссылок](redaktirovanie-stranicy/dobavlenie-ssylok.md)
+* [Смена цвета](redaktirovanie-stranicy/smena-cveta.md)
 
 ## TON DNS + TON Moji
 
